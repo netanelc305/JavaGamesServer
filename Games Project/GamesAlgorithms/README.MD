@@ -22,8 +22,8 @@ each game will include a random mode that will pick a random move , and a smart 
 - if the child manage to catch the rabbit (they on the same cell) the player won.
 - if the number of allowed steps equal to 0 , the rabbit won.
 
-key:
-W - up
-S - down
-A - left
-D - right
+    key:
+    W - up
+    S - down
+    A - left
+    D - right
