@@ -1,6 +1,6 @@
 # JavaGamesServer
 
-Made by netanel cohen and ben ouahba .
+Made by Netanel Cohen and Ben Ouahba .
 
 # Objectives
 
