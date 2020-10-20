@@ -14,6 +14,6 @@ Clone the repository then open GameServerProject and GameClientProject as Injell
 
 OR
 
-Download Server.jar and Client.jar then execute ``` java -jar Server.jar ```  submit "START" , on another terminal  execute ``` jave -jar Client.jar```
+Download Server.jar and Client.jar then execute on terminal  ``` java -jar Server.jar ```  submit "START" , on another terminal  execute ``` jave -jar Client.jar```
 
 enjoy :)
