@@ -10,10 +10,10 @@ The server will include 2 games - TicTacToe,CatchTheRabbit , and will be able to
 
 # Instructions 
 
-clone the repository and open GameServerProject/GameClientProject as Injellj/Eclipse project and run from IDE.
+Clone the repository then open GameServerProject and GameClientProject as Injellj/Eclipse project and run them from IDE.
 
 OR
 
-Download Server.jar/Client.jar and execute ``` java -jar Server.jar ``` then "START" , on another terminal  ``` jave -jar Client.jar```
+Download Server.jar and Client.jar then execute ``` java -jar Server.jar ```  submit "START" , on another terminal  execute ``` jave -jar Client.jar```
 
 enjoy :)
